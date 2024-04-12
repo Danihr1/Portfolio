@@ -1,0 +1,30 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(14, 50, 148);
+    color: #fff;
+    text-align: center;
+    padding: 50px 0;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+.project {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: rgb(15, 54, 162);
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
